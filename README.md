@@ -1,2 +1,2 @@
 # publico
-Repositorio privado para practica Santiago
+Repositorio publico para practica Santiago
